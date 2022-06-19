@@ -4,6 +4,8 @@ A Windows desktop utility to pin any picture to the desktop, floating, topmost, 
 
 This simple tool allows you to pin any picture to the desktop (topmost), it might help you to use as a guide for designing and using them as reference, might be to paint, draw over (clickthrough), etc.
 
+![snap01](https://raw.githubusercontent.com/vhanla/PinPicture/main/gitassets/snap01.png)
+
 These are the following picture formats currently supported:
 
 - [x] BMP
@@ -38,6 +40,9 @@ These are the following picture formats currently supported:
 ## USAGE:
 
 To zoom picture, press Ctrl key then the mouse wheel.
+
+e.g. Using as an overlay clickthrough guide for modeling 3d assets:
+![snap01](https://raw.githubusercontent.com/vhanla/PinPicture/main/gitassets/snap02.png)
 
 ## KNOWN BUGS:
 
